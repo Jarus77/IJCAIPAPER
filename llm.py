@@ -6,7 +6,7 @@ import re
 from IPython.display import display, Markdown
 import os
 
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyD_nxEn0-nWtnp9TK1V5z6GQlE8-hyZRIo'
+os.environ['GOOGLE_API_KEY'] = 'API'
 
 generation_config={
 "temperature":0,
